@@ -4,7 +4,7 @@ CalculadoraApp
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AnaJotta/CalculadoraApp)
-![GitHub repo size](https://img.shields.io/github/repo-size/AnaJotta/CalculadoraApp)
+
 
 Una aplicación de consola en **Java** que permite realizar operaciones aritméticas (suma, resta, multiplicación y división) entre dos o más números.
 
