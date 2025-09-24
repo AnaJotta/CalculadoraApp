@@ -24,11 +24,11 @@ Una aplicación de consola en **Java** que permite realizar operaciones aritmét
 
 El programa muestra un menú con opciones:
 
-1: Suma
-2: Resta
-3: Multiplicación
-4: División
-5: Salir
+- 1: Suma
+- 2: Resta
+- 3: Multiplicación
+- 4: División
+- 5: Salir
 
 Pasos:
 
